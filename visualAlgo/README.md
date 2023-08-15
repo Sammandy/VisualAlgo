@@ -27,6 +27,5 @@
 # Common : 
     Disables UI while an algorithm is running and can only be stopped using reset button. 
 
-## License
 
 ## <div align="center">🤞Happy Coding🤞</div>
